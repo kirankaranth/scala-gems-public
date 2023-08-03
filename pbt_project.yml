@@ -1,0 +1,33 @@
+name: Prophecy-Provided-Scala-Gems
+description: ''
+version: sandboxdev-1.0
+author: kshitiz@prophecy.io
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: scalagems
+  parentArtefactID: io.prophecy
+  buildSystem: maven
+  author: null
+  createdAt: '2023-07-12 12:46:15'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+functions:
+  author: null
+  createdAt: '2023-07-12 12:46:15'
+  gems: {}
+  udfs: {}
+  udafs: {}
+  expressions: {}
+subgraphs: {}
+sqlModels: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}
